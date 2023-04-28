@@ -2,7 +2,7 @@
 
 ## Raspberry Pi
 
-Le Raspberry Pi est un ordinateur miniature qui peut se brancher sur un écran, un clavier et une souris. Il a été créé par la Raspberry Pi Foundation, une organisation caritative qui vise à rendre l’informatique accessible et ludique pour tous1. Le Raspberry Pi peut fonctionner avec différents systèmes d’exploitation, comme Raspberry Pi OS, Twister ou Recalbox2.
+Le Raspberry Pi est un ordinateur miniature qui peut se brancher sur un écran, un clavier et une souris. Il a été créé par la Raspberry Pi Foundation, une organisation caritative qui vise à rendre l’informatique accessible et ludique pour tous. Le Raspberry Pi peut fonctionner avec différents systèmes d’exploitation, comme Raspberry Pi OS, Twister ou Recalbox.
 
 ![](./raspilogo.png)
 
