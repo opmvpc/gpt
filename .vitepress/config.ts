@@ -42,7 +42,7 @@ export default defineConfig({
           items: [
             {
               text: "Démo",
-              link: "/demo/index",
+              link: "/demo/",
             },
             {
               text: "Instructions",
@@ -71,6 +71,11 @@ export default defineConfig({
 
     search: {
       provider: "local",
+    },
+
+    returnToTopLabel: "Retour en haut",
+    footer: {
+      copyright: "Copyright © 2023 Thibault Six",
     },
   },
 });

@@ -4,7 +4,7 @@
 
 Objectif : Demandez à ChatGPT d'écrire un programme pour jouer au jeu de mémoire (Simon).
 
-![](./simon.png)
+![](./simon.jpg)
 
 ## Tâches
 
